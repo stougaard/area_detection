@@ -1,0 +1,7 @@
+pillow
+jupyter
+xlrd
+numpy
+pandas
+scikit-learn
+scikit-image
